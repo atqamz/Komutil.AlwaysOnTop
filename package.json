@@ -1,0 +1,9 @@
+{
+    "name": "com.atqamz.komutil-always-on-top",
+    "displayName": "Komutil Always On Top",
+    "version": "1.0.0",
+    "unity": "2022.1",
+    "author": "atqamz",
+    "description": "",
+    "dependencies": {}
+}
