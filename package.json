@@ -1,9 +1,11 @@
 {
-    "name": "com.atqamz.komutil.alwaysontop",
-    "displayName": "Komutil Always On Top",
+    "name": "com.atqamz.komutil-always-on-top",
     "version": "1.0.0",
-    "unity": "2022.1",
-    "author": "atqamz",
-    "description": "",
-    "dependencies": {}
+    "displayName": "Komutil - Always On Top",
+    "description": "Lorem ipsum dolor sit amet",
+    "unity": "6000.0",
+    "author": {
+        "name": "Atqa Munzir",
+        "email": "atqamz@gmail.com"
+    }
 }
